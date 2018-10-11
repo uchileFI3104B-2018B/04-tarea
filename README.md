@@ -1,2 +1,3 @@
-# 04-tarea
-Tarea nro. 4, entrega 18 Oct. 23:59 hrs
+# Tarea nro. 4
+
+Fecha de entrega: 18 de Octubre a las 23:59 hrs.
